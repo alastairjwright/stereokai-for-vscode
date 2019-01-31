@@ -2,7 +2,7 @@
   "name": "stereokai",
   "displayName": "Sublime Stereokai for VS Code",
   "description": "Sublime Stereokai for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "alastairjwright",
   "engines": {
     "vscode": "^1.30.0"
