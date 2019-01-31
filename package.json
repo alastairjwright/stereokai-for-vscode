@@ -1,0 +1,22 @@
+{
+  "name": "stereokai",
+  "displayName": "Sublime Stereokai for VS Code",
+  "description": "Sublime Stereokai for VS Code",
+  "version": "1.0.0",
+  "publisher": "alastairjwright",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stereokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stereokai-color-theme.json"
+      }
+    ]
+  }
+}
